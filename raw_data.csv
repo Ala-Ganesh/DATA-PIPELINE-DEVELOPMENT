@@ -1,0 +1,9 @@
+Name,Age,Salary,Department,JoiningDate
+Alice,29,50000,HR,2020-01-15
+Bob,35,62000,Finance,2018-03-10
+Charlie,,58000,IT,2019-07-01
+David,40,,Finance,2017-11-20
+Eva,30,54000,IT,
+Frank,50,75000,HR,2016-08-05
+Grace,28,49000,Finance,2021-05-18
+Helen,33,61000,,2019-12-12
